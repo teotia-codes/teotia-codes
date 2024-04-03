@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WeRide and NewsApp<br>👯 I’m looking to collaborate on Flutter and Kotlin Projects <br>🤝 I’m looking for help with Flutter, Dart and Firebase<br>🌱 I’m currently learning Data Analytics<br>💬 Ask me about Data Science and Database and Exploratory Data Analytics(EDA)
+🔭 I’m currently working on WeRide and NewsApp<br>👯 I’m looking to collaborate on Flutter and Kotlin Projects <br>🤝 I’m looking for help    with Flutter, Dart and Firebase<br>🌱 I’m currently learning Data Analytics<br>💬 Ask me about Data Science and Database and Exploratory Data Analytics(EDA)
 
 
 ## 🌐 Socials:
