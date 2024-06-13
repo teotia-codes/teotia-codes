@@ -2,7 +2,7 @@
 🔭 I’m currently working on WeRide and DusraGhar<br>👯  I’m looking to collaborate on Flutter and Kotlin Projects <br>🤝 I’m looking for help   with Kotlin,Flutter, Dart and Firebase<br>🌱 I’m currently learning Data Analytics<br>💬 Ask me about Data Science and Database and Exploratory Data Analytics (EDA)
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-teotia-395021268/) 
 
 # 💻 Tech Stack:
