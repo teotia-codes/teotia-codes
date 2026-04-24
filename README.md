@@ -177,11 +177,25 @@ class PriyanshuTeotia:
 
 ---
 
+## `$ watch contribution-graph`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teotia-codes/teotia-codes/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teotia-codes/teotia-codes/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/teotia-codes/teotia-codes/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## `$ trophy --display-all`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=teotia-codes&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=teotia-codes&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 
 </div>
 
